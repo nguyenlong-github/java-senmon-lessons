@@ -1,7 +1,3 @@
-Here is a draft for your README in English:
-
----
-
 # Java Exercises Repository
 
 This repository contains the Java exercises I completed during my studies at Senmon School. The exercises cover various topics and concepts in Java programming, including object-oriented programming, data structures, algorithms, and more.
