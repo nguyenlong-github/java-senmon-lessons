@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/pac24a/GachaMachine.java" charset="windows-31j" />
+    <file url="file://$PROJECT_DIR$/src/pac24a/J2Kad24A.java" charset="windows-31j" />
+    <file url="file://$PROJECT_DIR$/src/pac24b/GachaMachine.java" charset="windows-31j" />
+    <file url="file://$PROJECT_DIR$/src/pac24b/J2Kad24B.java" charset="windows-31j" />
+    <file url="file://$PROJECT_DIR$/src/pac24c/GachaMachine.java" charset="windows-31j" />
+    <file url="file://$PROJECT_DIR$/src/pac24c/J2Kad24C.java" charset="windows-31j" />
+    <file url="file://$PROJECT_DIR$/src/pac24d/GachaMachine.java" charset="windows-31j" />
+    <file url="file://$PROJECT_DIR$/src/pac24d/J2Kad24D.java" charset="windows-31j" />
+    <file url="file://$PROJECT_DIR$/src/pac24s/J2Kad24S.java" charset="windows-31j" />
+    <file url="file://$PROJECT_DIR$/src/pac24s/StopWatch.java" charset="windows-31j" />
+    <file url="file://$PROJECT_DIR$/src/pac24x/CafeMenu.java" charset="windows-31j" />
+    <file url="file://$PROJECT_DIR$/src/pac24x/DonutMenu.java" charset="windows-31j" />
+    <file url="file://$PROJECT_DIR$/src/pac24x/J2Kad24X.java" charset="windows-31j" />
+    <file url="file://$PROJECT_DIR$/src/pac24x/Menu.java" charset="windows-31j" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="J2Kad05D" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="J2Kad05D" />
+    <module name="J2Kad05" />
+    <option name="VM_PARAMETERS" value="-Dfile.encoding=Windows-31J" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
