@@ -14,6 +14,4 @@ This repository serves as a portfolio of my Java programming skills and as a ref
 
 Feel free to browse the exercises, review the code, and run the programs in your local environment. Constructive feedback is always welcome!
 
----
 
-You can modify or expand this further depending on your preferences!
